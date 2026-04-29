@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Aslam
+# 👋 Hi, I'm Shaik Aslam
 
-🚀 DevOps Engineer | VMware Administrator | Cloud & Kubernetes Enthusiast
+🚀 DevOps Engineer | VMware Administrator | AWS | Kubernetes  
 
-With **4.7 years of experience in infrastructure and virtualization**, I specialize in building and supporting **scalable, automated, and reliable systems**. I bring strong production experience from VMware environments and hands-on expertise in modern DevOps practices.
-
+DevOps Engineer with 4.7 years of experience in infrastructure and virtualization, now focused on building scalable CI/CD pipelines and cloud-native applications.
 ---
 
 ## 🔧 Core Expertise
