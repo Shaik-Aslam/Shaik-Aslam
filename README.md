@@ -82,13 +82,8 @@ Seeking opportunities as a **DevOps Engineer / Cloud Engineer** where I can leve
 
 ## 📫 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Im-Aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Im-Aslam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaik-aslam-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-aslam-it" height="30" width="40" /></a>
-</p>
-<img width="912" height="359" alt="image" src="https://github.com/user-attachments/assets/0edfc08d-d4d5-429b-9da0-e5bf1413b03b" />
-
+📫 Connect With Me
+🔗 LinkedIn: https://linkedin.com/in/shaik-aslam-it
 
 
 ---
